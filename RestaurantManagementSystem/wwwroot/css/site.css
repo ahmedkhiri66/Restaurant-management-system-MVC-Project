@@ -1,0 +1,78 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+footer {
+    background-color: rgb(23, 35, 63);
+}
+
+body.home-index {
+    background: url('/images/res18.jpg') no-repeat center center fixed;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+:root {
+    --primary: #2a9d8f; /* Teal */
+    --secondary: #e76f51; /* Coral */
+    --light: #f8f9fa; /* Light gray */
+    --dark: #343a40; /* Dark gray */
+}
+
+body {
+    background-color: #f8f5f2; /* Warm light background */
+    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+    background-color: whitesmoke;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-danger {
+    background-color: #e63946; /* Vibrant red */
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    border-radius:50px;
+}
+
+.table {
+    background-color: white;
+}
+
+    .table thead {
+        background-color: var(--primary);
+        color: white;
+    }

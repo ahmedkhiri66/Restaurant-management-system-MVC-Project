@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\middleware\\performancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\middleware\\performancemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\analytics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\analytics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\middleware\\businesshoursmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\middleware\\businesshoursmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\taghelpers\\pricetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\taghelpers\\pricetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\data\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\data\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|c:\\users\\ahmed khiri\\source\\repos\\restaurantmanagementsystem\\restaurantmanagementsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CC31A42-2DA2-43FF-817A-795CDBF9FC0C}|RestaurantManagementSystem\\RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformanceMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Middleware\\PerformanceMiddleware.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Middleware\\PerformanceMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Middleware\\PerformanceMiddleware.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Middleware\\PerformanceMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:11:16.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Analytics\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Analytics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Analytics\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Analytics\\Index.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:27:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Program.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:11:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:47:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Table\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Table\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Table\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Table\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:26:12.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:13:11.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:15:31.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessHoursMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Middleware\\BusinessHoursMiddleware.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Middleware\\BusinessHoursMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Middleware\\BusinessHoursMiddleware.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Middleware\\BusinessHoursMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:09:55.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PriceTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\TagHelpers\\PriceTagHelper.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\TagHelpers\\PriceTagHelper.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\TagHelpers\\PriceTagHelper.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\TagHelpers\\PriceTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:28:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Table.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:07:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:06:58.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:06:21.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:05:23.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Models\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:05:55.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\TableController.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:14:48.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:27:52.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:17:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Menu\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Edit.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Menu\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:18:43.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:18:52.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Menu\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Delete.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Menu\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:21:09.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Create.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Menu\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Menu\\Create.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Menu\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:20:20.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T17:15:07.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:00:57.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:16:31.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T08:51:33.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Data\\DataRepository.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Data\\DataRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Data\\DataRepository.cs",
+              "RelativeToolTip": "RestaurantManagementSystem\\Data\\DataRepository.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:08:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RestaurantManagementSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T17:07:14.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T15:04:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:29:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:23:07.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:22:29.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "RestaurantManagementSystem\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwIUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:23:58.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "RestaurantManagementSystem\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T11:06:00.568Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

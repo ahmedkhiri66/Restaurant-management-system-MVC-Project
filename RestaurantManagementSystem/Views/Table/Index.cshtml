@@ -1,0 +1,28 @@
+﻿@model List<Table>
+
+@{
+    ViewData["Title"] = "Tables";
+}
+
+<h1>Table Management</h1>
+
+<div class="row">
+    @foreach (var table in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card @(table.IsAvailable ? "bg-success" : "bg-danger") text-white">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@table.Name</h5>
+                    <p class="card-text">Capacity: @table.Capacity</p>
+                    <p class="card-text">Status: @(table.IsAvailable ? "Available" : "Occupied")</p>
+
+                    <form asp-action="ToggleAvailability" asp-route-id="@table.Id" method="post">
+                        <button type="submit" class="btn @(table.IsAvailable ? "btn-warning" : "btn-success")">
+                            @(table.IsAvailable ? "Mark as Occupied" : "Mark as Available")
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>

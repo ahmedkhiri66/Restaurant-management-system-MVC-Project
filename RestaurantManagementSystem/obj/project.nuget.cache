@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KsrIZUqWho=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed Khiri\\source\\repos\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Khiri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

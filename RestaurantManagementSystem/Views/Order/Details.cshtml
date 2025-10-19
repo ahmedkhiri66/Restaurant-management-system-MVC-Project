@@ -1,0 +1,43 @@
+﻿
+@* @model Order *@
+
+@* <h2>Order #@Model.Id</h2> *@
+
+@* <div class="card"> *@
+@*     <div class="card-body"> *@
+@*         <h5>@Model.CustomerName</h5> *@
+@*         <p>Status: @Model.Status</p> *@
+@*         <p>Total: $@Model.Total</p> *@
+
+@*         <h6>Items:</h6> *@
+@*         <ul> *@
+@*             @foreach (var item in Model.Items) *@
+@*             { *@
+@*                 <li>@item.MenuItemName (x@(item.Quantity)) - $@item.Subtotal</li> *@
+@*             } *@
+@*         </ul> *@
+@*     </div> *@
+@* </div> *@
+
+@* <a asp-action="Index" class="btn btn-secondary mt-3">Back to Orders</a> *@
+@model Order
+
+<h2>Order #@Model.Id</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5>@Model.CustomerName</h5>
+        <p>Status: @Model.Status</p>
+        <p>Total: $@Model.Total</p>
+
+        <h6>Items:</h6>
+        <ul>
+            @foreach (var item in Model.Items)
+            {
+                <li>@item.MenuItemName (x@(item.Quantity)) - $@item.Subtotal</li>
+            }
+        </ul>
+    </div>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to Orders</a>
